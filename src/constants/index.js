@@ -4,8 +4,8 @@ export const navLinks = [
       title: "About"
     },
     {
-      id: "contact",
-      title: "Contact"
+      id: "skill",
+      title: "Skill"
     },
     {
       id: "experience",
@@ -14,5 +14,9 @@ export const navLinks = [
     {
       id: "project",
       title: "Project"
-    }
+    },
+    {
+      id: "contact",
+      title: "Contact"
+    },
   ]
