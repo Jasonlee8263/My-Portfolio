@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="flex">About</div>
+    <div className="flex"></div>
   )
 }
 
